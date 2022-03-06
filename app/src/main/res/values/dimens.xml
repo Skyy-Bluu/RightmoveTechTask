@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading_size_1">14sp</dimen>
+    <dimen name="average_price">14sp</dimen>
+    <dimen name="bottom_spacing">10dp</dimen>
+</resources>

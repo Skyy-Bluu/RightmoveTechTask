@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RightmoveTechTask</string>
+    <string name="average_property_price_heading">What is the average property price?</string>
+</resources>
